@@ -1,0 +1,109 @@
+PHR Privacy Policy
+
+Effective October 22, 2026
+
+In short: PHR keeps your health records on your iPhone and in
+your own private iCloud account. The developer cannot see, access, or collect your data.
+There are no ads, no analytics, and no third-party tracking.
+
+What data the app handles
+
+PHR is a personal health record. Depending on what you choose to add, it stores:
+
+- Records you enter yourself: vitals, lab results, conditions, medications, and vaccines.
+
+- Documents you import: PDF files such as lab reports, and the text read from them.
+
+- Apple Health data, if you connect it: steps, heart rate, body weight, blood pressure,
+body temperature, oxygen saturation, and workouts. The app only reads this data; it does not write to Apple Health.
+
+Where your data is stored
+
+- On your device. All records are stored in the app's database on your iPhone.
+
+- In your private iCloud account. Records sync through Apple's iCloud (CloudKit private database)
+so they are backed up and available on your devices signed in to the same Apple Account. This storage belongs
+to your iCloud account; the developer has no access to it.
+
+- Vaccination QR codes (SMART Health Cards). When you import one, the card is decoded on your
+iPhone. To check that the card is genuine, the app downloads the issuer's public signing keys from the
+issuer's website (for example, your state registry or pharmacy). No health data or personal information is sent.
+
+- Ask PHR (the in-app assistant) runs on your device. Questions and answers are processed by
+Apple's on-device model (Apple Intelligence). Your records and questions are not sent to the developer or to any AI service.
+If you ask by voice, speech is converted to text on your iPhone.
+
+- Document text is read on your device. Text extraction from PDFs, including scanned pages,
+is done on your iPhone using Apple's built-in frameworks. Documents are not uploaded to any server operated by the developer.
+
+App lock (Face ID or passcode)
+
+You can turn on an optional lock for PHR in About → Privacy & Security.
+
+- It uses Face ID or Touch ID (whichever your iPhone has), or your iPhone passcode. Your face and fingerprint data stay inside iOS: PHR is only told whether the check passed.
+
+- PHR locks when you leave it, after the time you choose.
+
+- Whether or not the lock is on, PHR hides your records in the app switcher and while your screen is being recorded or mirrored. iOS does not allow apps to block screenshots.
+
+- While PHR is locked, Siri won’t read your results aloud.
+
+- The lock is optional, and you can turn it off at any time.
+
+Encrypted backup
+
+You can save all your records, documents and photos into one backup file, locked with a password you choose (at least 10 characters).
+
+- The file is encrypted on your iPhone before it is saved. Only your password can open it.
+
+- A lost password cannot be recovered. Without it, nobody can open the backup, including the developer.
+
+- You decide where it goes: Files, AirDrop, your computer or another place. PHR does not upload it anywhere, and the developer never receives it.
+
+- Restoring adds records that are missing and never changes or removes records that are already on your iPhone.
+
+- Copies of the backup file that you save elsewhere are yours to keep or delete.
+
+What the developer collects
+
+Nothing. The developer does not operate any server that receives your data, and the app contains no
+analytics, advertising, or third-party SDKs. Your health data is never sold, shared, or used for advertising,
+marketing, or data mining.
+
+If you choose to share diagnostics with app developers in your iPhone settings, Apple may provide
+anonymized crash reports to the developer. These do not contain your health records.
+
+Apple Health (HealthKit)
+
+Access to Apple Health is optional and only happens if you tap Connect Apple Health and grant permission.
+You can change or revoke this at any time in Settings → Health → Data Access & Devices → PHR.
+Data read from Apple Health is used only to show your own records and trends in the app.
+
+Deleting your data
+
+- Individual records and documents: delete them in the app. Deletions also sync to your iCloud.
+
+- All app data on a device: delete the app from your iPhone.
+
+- The iCloud copy: go to Settings → [your name] → iCloud → Manage Account Storage,
+select PHR, and delete its data.
+
+Because the developer never receives your data, there is nothing held by the developer to request deletion of.
+
+Not medical advice
+
+PHR helps you keep and view your own records. It does not diagnose or treat any condition.
+Always check with your doctor before making medical decisions.
+
+Children
+
+PHR is not directed to children under 13 and does not knowingly collect any data from them.
+
+Changes to this policy
+
+If the way the app handles data changes, this page will be updated and the effective date above will change.
+
+Contact
+
+Questions about this policy? Email
+info@merkuriletusbegin.com.
