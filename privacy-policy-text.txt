@@ -1,10 +1,12 @@
 PHR Privacy Policy
 
-Effective October 22, 2026
+By MerKuri Let Us Begin LLC · Effective October 22, 2026
 
 In short: PHR keeps your health records on your iPhone and in
 your own private iCloud account. The developer cannot see, access, or collect your data.
 There are no ads, no analytics, and no third-party tracking.
+
+PHR is not medical advice; check anything important with your doctor.
 
 What data the app handles
 
@@ -29,12 +31,12 @@ to your iCloud account; the developer has no access to it.
 iPhone. To check that the card is genuine, the app downloads the issuer's public signing keys from the
 issuer's website (for example, your state registry or pharmacy). No health data or personal information is sent.
 
-- Ask PHR (the in-app assistant) runs on your device. Questions and answers are processed by
-Apple's on-device model (Apple Intelligence). Your records and questions are not sent to the developer or to any AI service.
-If you ask by voice, speech is converted to text on your iPhone.
-
 - Document text is read on your device. Text extraction from PDFs, including scanned pages,
 is done on your iPhone using Apple's built-in frameworks. Documents are not uploaded to any server operated by the developer.
+
+Ask PHR (the in-app assistant) runs on your device. Questions and answers are processed by
+Apple's on-device model (Apple Intelligence). Your records and questions are not sent to the developer or to any AI service.
+If you ask by voice, speech is converted to text on your iPhone.
 
 App lock (Face ID or passcode)
 
